@@ -1,0 +1,13 @@
+C:\Users\Salim\Documents\GitHub\FILESORT\bin\Debug\netcoreapp3.1\FILESORT.exe
+C:\Users\Salim\Documents\GitHub\FILESORT\bin\Debug\netcoreapp3.1\FILESORT.deps.json
+C:\Users\Salim\Documents\GitHub\FILESORT\bin\Debug\netcoreapp3.1\FILESORT.runtimeconfig.json
+C:\Users\Salim\Documents\GitHub\FILESORT\bin\Debug\netcoreapp3.1\FILESORT.runtimeconfig.dev.json
+C:\Users\Salim\Documents\GitHub\FILESORT\bin\Debug\netcoreapp3.1\FILESORT.dll
+C:\Users\Salim\Documents\GitHub\FILESORT\bin\Debug\netcoreapp3.1\FILESORT.pdb
+C:\Users\Salim\Documents\GitHub\FILESORT\obj\Debug\netcoreapp3.1\FILESORT.csprojAssemblyReference.cache
+C:\Users\Salim\Documents\GitHub\FILESORT\obj\Debug\netcoreapp3.1\FILESORT.AssemblyInfoInputs.cache
+C:\Users\Salim\Documents\GitHub\FILESORT\obj\Debug\netcoreapp3.1\FILESORT.AssemblyInfo.cs
+C:\Users\Salim\Documents\GitHub\FILESORT\obj\Debug\netcoreapp3.1\FILESORT.csproj.CoreCompileInputs.cache
+C:\Users\Salim\Documents\GitHub\FILESORT\obj\Debug\netcoreapp3.1\FILESORT.dll
+C:\Users\Salim\Documents\GitHub\FILESORT\obj\Debug\netcoreapp3.1\FILESORT.pdb
+C:\Users\Salim\Documents\GitHub\FILESORT\obj\Debug\netcoreapp3.1\FILESORT.genruntimeconfig.cache
