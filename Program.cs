@@ -117,6 +117,8 @@ for (int i = 0; i < 10; i++)
 
  
             Console.WriteLine("Файлы сформированы\n");
+             Console.WriteLine("Файлы сформированы\n");
+          
           
            
         }
